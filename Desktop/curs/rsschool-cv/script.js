@@ -1,4 +1,3 @@
-//Exzample№1
 let name='Eldiar';
 let age=17;
 let isStudent=true;
